@@ -89,3 +89,19 @@ For any operation, first go to specific VM folder in `Git-Bash` and then try fol
 - To reprovision and reload a VM, execute `vagrant reload --provision`
 
 - To SSH/login into the VM, execute `vagrant ssh`
+
+
+
+## how tu push change to githus
+
+git checkout master
+
+git pull
+
+git checkout -b <branch-name>
+
+git status
+
+make change
+
+commit change 
